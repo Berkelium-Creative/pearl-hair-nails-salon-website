@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Pearl Hair & Nails Salon",
+  "tagline": "Lake Forest full-service salon on Raymond Way.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "LAKE FOREST · RAYMOND WAY · OPEN SEVEN DAYS",
+    "heading": "A Lake Forest classic — hair and nails under one roof.",
+    "subheading": "A full-service hair and nail salon inside the Lake Forest Towne Center on Raymond Way. Cuts, color, blowouts, manicures, pedicures, full sets — eight chairs, seven days a week.",
+    "ctaText": "Reserve a chair",
+    "ctaLink": "tel:9497071273",
+    "image": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The salon",
+    "heading": "Eight chairs. Lake Forest classic.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Pearl Hair & Nails has been on Raymond Way in Lake Forest since 2014. Eight chairs split between the hair side and the nail side, with a senior stylist on every chair.",
+      "We do classic cuts, men's and women's color, balayage, blow-outs, and updos on the hair side. Manicures, pedicures, gel, dip, full sets, and detailed art on the nail side.",
+      "Open seven days a week. Walk-ins welcome but appointments preferred for color, balayage, and full sets. Sundays we open later at ten."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Women's Cut + Blowout",
+      "description": "Wash, cut, and blow-dry. Shoulder-length through long. Forty-five minutes in the chair.",
+      "price": "$55"
+    },
+    {
+      "title": "Color · Single Process",
+      "description": "Single-process color with toner and blow-out. Ninety minutes in the chair. Includes the conditioning.",
+      "price": "from $95"
+    },
+    {
+      "title": "Balayage",
+      "description": "Hand-painted highlights with toner and blow-out. Two-and-a-half hours.",
+      "price": "from $185"
+    },
+    {
+      "title": "Classic Manicure",
+      "description": "Trim, shape, cuticle work, polish, top coat. The thirty-minute essential.",
+      "price": "$23"
+    },
+    {
+      "title": "Spa Pedicure",
+      "description": "Hot-towel soak, scrub, callus, paraffin, polish. Forty-five minutes of restoration.",
+      "price": "$38"
+    },
+    {
+      "title": "Full Set + Gel",
+      "description": "Acrylic full set with UV-cured gel polish for two-week wear. Seventy-five minutes.",
+      "price": "$60"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Patricia D.",
+      "rating": 4,
+      "context": "Six-year regular",
+      "text": "Pearl is the only salon in Lake Forest that has handled both my color and my nails for the last six years. Same stylist, same chair, same finish. The standing four-thirty Thursday is sacred."
+    },
+    {
+      "name": "Linda H.",
+      "rating": 5,
+      "context": "Bridal party",
+      "text": "Booked Pearl for my daughter's bridal party of eight. They handled all of us in three hours with color, blowouts, and full sets. The bride cried. Real shop."
+    },
+    {
+      "name": "Cathy R.",
+      "rating": 4,
+      "context": "Mother + daughter",
+      "text": "Brought my mom and my fourteen-year-old daughter for a Saturday morning. Two cuts, two pedicures, two manis. Three hours, three hundred dollars, three generations happy."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(949) 707-1273",
+    "email": "hello@pearlsalon.com",
+    "address": "24602 Raymond Way M, Lake Forest, CA 92630",
+    "mapEmbedQuery": "Pearl Hair & Nails Salon, 24602 Raymond Way, Lake Forest, CA 92630",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "9:00 AM – 7:00 PM",
+      "Tuesday": "9:00 AM – 7:00 PM",
+      "Wednesday": "9:00 AM – 7:00 PM",
+      "Thursday": "9:00 AM – 7:00 PM",
+      "Friday": "9:00 AM – 7:00 PM",
+      "Saturday": "9:00 AM – 7:00 PM",
+      "Sunday": "10:00 AM – 5:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Pearl Hair & Nails Salon — Lake Forest full-service salon since 2014",
+    "description": "A full-service hair and nail salon on Raymond Way in Lake Forest. Cuts, color, balayage, manicures, pedicures, full sets. Open seven days a week.",
+    "keywords": [
+      "Lake Forest hair salon",
+      "Raymond Way salon",
+      "balayage Lake Forest",
+      "Pearl Hair & Nails"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#4C1D95",
+    "accentColor": "#BE185D",
+    "fontFamily": "tangerine-cardo-dmmono"
+  },
+  "designSystem": {
+    "searchQuery": "soft pearl boutique salon tangerine script cardo lavender blush rose accent rounded shapes",
+    "styleName": "Soft Pearl Boutique (Tangerine + lavender + blush)",
+    "pattern": "Hero pearl gradient + List menu + CTA",
+    "palette": {
+      "primary": "#4C1D95",
+      "secondary": "#C4B5FD",
+      "cta": "#4C1D95",
+      "accent": "#BE185D",
+      "background": "#FAFAFA",
+      "text": "#1C1917",
+      "muted": "#78716C",
+      "border": "#4C1D95",
+      "surface": "#FBCFE8"
+    },
+    "typography": {
+      "heading": "Cardo",
+      "body": "Cardo",
+      "label": "DM Mono",
+      "mood": "Soft pearl boutique salon, Tangerine flourish script overlays, lavender + blush + rose, rounded pill shapes, full-service feminine"
+    },
+    "moves": [
+      "Tangerine flourish script + Cardo italic-roman body — full-service boutique elegance",
+      "Lavender + blush + rose-accent palette — first lavender-primary salon in the build",
+      "Circular pill-shape hero photo (border-radius:999px) — pearl orb feel",
+      "Pulsing 'since 2014' blush pearl-shine badge floating off photo",
+      "Pearl-gradient hero background (lavender → blush → pearl) — soft jewelry feel",
+      "Lavender menu section + blush reviews section — alternating accent backgrounds"
+    ]
   }
 }
